@@ -86,4 +86,4 @@ async def on_ready():
 	print('Ready to do your bidding')
 	print('------')
 
-client.run('NDU4NDM2NzAyMTcyODcyNzA1.DgnoQg.HCx7hMl8LHfBN6-GkPlSZhg8_Ps')
+client.run('your token here')
